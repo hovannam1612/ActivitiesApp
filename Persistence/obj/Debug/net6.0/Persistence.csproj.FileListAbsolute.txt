@@ -1,0 +1,15 @@
+D:\Udemy\NETCore_React\Activities\Persistence\bin\Debug\net6.0\Persistence.deps.json
+D:\Udemy\NETCore_React\Activities\Persistence\bin\Debug\net6.0\Persistence.dll
+D:\Udemy\NETCore_React\Activities\Persistence\bin\Debug\net6.0\ref\Persistence.dll
+D:\Udemy\NETCore_React\Activities\Persistence\bin\Debug\net6.0\Persistence.pdb
+D:\Udemy\NETCore_React\Activities\Persistence\bin\Debug\net6.0\Domain.dll
+D:\Udemy\NETCore_React\Activities\Persistence\bin\Debug\net6.0\Domain.pdb
+D:\Udemy\NETCore_React\Activities\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+D:\Udemy\NETCore_React\Activities\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\NETCore_React\Activities\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+D:\Udemy\NETCore_React\Activities\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+D:\Udemy\NETCore_React\Activities\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+D:\Udemy\NETCore_React\Activities\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+D:\Udemy\NETCore_React\Activities\Persistence\obj\Debug\net6.0\Persistence.dll
+D:\Udemy\NETCore_React\Activities\Persistence\obj\Debug\net6.0\ref\Persistence.dll
+D:\Udemy\NETCore_React\Activities\Persistence\obj\Debug\net6.0\Persistence.pdb
